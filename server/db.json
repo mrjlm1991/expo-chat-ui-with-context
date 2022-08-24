@@ -1,0 +1,50 @@
+{
+  "messages": [
+    {
+      "user": 1,
+      "fname": "آرمین اشتری",
+      "image": "../../../assets/BustanPic/profile_pic.jpg",
+      "time": "12:05",
+      "content": "برا فردا کی پایه س رفقا؟"
+    },
+    {
+      "user": 0,
+      "time": "12:09",
+      "content": "من اوکیم اگر دیگران باشند"
+    },
+    {
+      "user": 2,
+      "fname": "Mehrdad.Badri",
+      "image": "../../../assets/BustanPic/profile_pic2.jpg",
+      "time": "12:07",
+      "content": "من جایی باید باشم اگه تونستم خبر میدم"
+    },
+    {
+      "user": 3,
+      "fname": "Hosein Alavi",
+      "image": "../../../assets/BustanPic/profile_pic3.jpg",
+      "time": "12:05",
+      "content": "من نظرم رو سزخه حصاره الان هوا خوبه زیاد گرم نیست دارابادم خوبه بازم هرچی نظر جمعه"
+    },
+    {
+      "user": 0,
+      "time": "12:00",
+      "content": "موافقم با سرخه حصار :)"
+    },
+    {
+      "user": 0,
+      "time": "12:00",
+      "content": "موافقم با سرخه حصار :)"
+    },
+    {
+      "user": 0,
+      "time": "12:00",
+      "content": "موافقم با سرخه حصار :)"
+    },
+    {
+      "user": 0,
+      "time": "12:00",
+      "content": "موافقم با سرخه حصار :)"
+    }
+  ]
+}
